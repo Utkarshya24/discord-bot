@@ -1,0 +1,17 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start" : "node bot.js"
+  },
+  "keywords": [],
+  "author": "utkarsh yadav",
+  "license": "ISC",
+  "description": "send verification message to discord channel bot",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "zlib-sync": "^0.1.9"
+  }
+}
